@@ -25,6 +25,9 @@ To start the server in development mode:
 npm run dev
 ```
 
+The server will start on [http://localhost:3000](http://localhost:3000).
+
+
 ### Project Structure
 
 ```plaintext
@@ -198,25 +201,6 @@ true
 - **Status Code:** 400
 - **Body:** Email must be a string
 
-## Instructions
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/ashishmohapatra240/slidely-backend.git
-    cd slidely-backend
-    ```
-
-2. Install dependencies:
-    ```bash
-    npm install
-    ```
-
-3. Start the server:
-    ```bash
-    npm run dev
-    ```
-
-The server will start on [http://localhost:3000](http://localhost:3000).
 
 ## Endpoints Summary
 
