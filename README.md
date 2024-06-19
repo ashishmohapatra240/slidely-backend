@@ -9,7 +9,7 @@ This is the backend server for the Slidely Form App, built with Express and Type
 
 1. Clone the repository:
     ```bash
-    git clone [<repository-url>](https://github.com/ashishmohapatra240/slidely-backend.git)
+    git clone https://github.com/ashishmohapatra240/slidely-backend.git
     cd slidely-backend
     ```
 
