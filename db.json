@@ -1,9 +1,9 @@
 [
-    {
-        "name": "John Doe",
-        "email": "johndoe@gmail.com",
-        "phone": "9876543210",
-        "github_link": "https://github.com/john_doe/my_slidely_task/",
-        "stopwatch_time": "00:01:19"
-    }
+  {
+    "name": "John Doe",
+    "email": "johndoe@gmail.com",
+    "phone": "9876543210",
+    "github_link": "https://github.com/john_doe/my_slidely_task/",
+    "stopwatch_time": "00:01:19"
+  }
 ]
