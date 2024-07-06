@@ -44,7 +44,7 @@ export const deleteFormEntry = (req: Request, res: Response) => {
     const { index } = req.query;
 
     if (typeof index !== 'string' || isNaN(Number(index))) {
-        return res.send('Index must be a number');
+        return res.status(400).send('Index must be a number');
     }
 
     const idx = parseInt(index, 10);
